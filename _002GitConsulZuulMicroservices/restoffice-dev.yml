@@ -1,0 +1,11 @@
+spring:
+    cloud:
+        consul:
+            config:
+                enabled: true
+            host: localhost
+            port: 8500
+server:
+    port: 8082
+message:
+    greeting: Welcome Office
