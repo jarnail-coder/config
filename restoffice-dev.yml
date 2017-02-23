@@ -8,4 +8,4 @@ spring:
 server:
     port: 8082
 message:
-    greeting: Welcome Office
+    greeting: Welcome Office 23-02-2017
